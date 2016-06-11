@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Android_Signin</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="Department">
+        <item>IT</item>
+        <item>CSE</item>
+        <item>ECE</item>
+        <item>EEE</item>
+        <item>MECH</item>
+        <item>CIVIL</item>
+    </string-array>
+    <string name="title_activity_login_details">Login_details</string>
+</resources>
